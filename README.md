@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a software developer passionate about solving problems and building meaningful solutions through code. I enjoy working on apps, web platforms, and APIs, and I’m always eager to learn and take on new challenges.
+I’m a software developer, passionate about solving problems and building meaningful solutions through code. I enjoy working on apps, web platforms, and APIs, and I’m always eager to learn and take on new challenges.
 
 
 ## 🌐 Socials:
